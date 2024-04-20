@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZkOKYgMhLB61YWGoYNo/aQBzhMb5F8gMSRJhd6kVfyiTZZBJoUFCYh0nyJyEdEsr0zLTzAunbBUZAbRMcnkfxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Desktop\\Algotithm and Complexity\\lab2\\App1\\App1\\App1.iOS\\App1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
